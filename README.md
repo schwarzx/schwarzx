@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schwarzx&layout=compact&langs_count=16&theme=dracula" />
   <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="175" /> -->
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=schwarzx&show_icons=true&theme=react&title_color=8711bd&icon_color=8711bd&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schwarzx&theme=react&title_color=8711bd&icon_color=8711bd&hide_border=true&layout=compact"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schwarzx&theme=react&title_color=8711bd&icon_color=8711bd&hide_border=true&layout=compact"/>
   <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="180">
 <div>
 <br /> 
