@@ -9,8 +9,8 @@
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=schwarzx&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schwarzx&layout=compact&langs_count=16&theme=dracula" />
   <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="175" /> -->
-  <img height="191em" src="https://github-readme-stats.vercel.app/api?username=schwarzx&show_icons=true&theme=react&title_color=8711bd&icon_color=8711bd&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="191em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schwarzx&theme=react&title_color=8711bd&icon_color=8711bd&hide_border=true&layout=compact"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=schwarzx&show_icons=true&theme=react&title_color=8711bd&icon_color=8711bd&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schwarzx&theme=react&title_color=8711bd&icon_color=8711bd&hide_border=true&layout=compact"/>
   <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="180">
 <div>
 <br /> 
@@ -44,15 +44,6 @@
 <br />
 <br />  
 
-
 ##
-<!--
-<div>
-<a href="https://github.com/schwarzx">
-  
-[![Bruno's github stats](https://github-readme-stats.vercel.app/api?username=schwarzx&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schwarzx&layout=compact&langs_count=16&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117"/>
-</div>
--->
+
   
