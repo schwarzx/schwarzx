@@ -6,7 +6,7 @@
 <div>
   <a href="https://github.com/schwarzx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=schwarzx&show_icons=true&theme=react&title_color=8711bd&icon_color=8711bd&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schwarzx&theme=react&title_color=8711bd&icon_color=8711bd&layout=compact"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schwarzx&theme=react&title_color=8711bd&icon_color=8711bd&layout=compact"/>
 <div>
 <br /> 
 
