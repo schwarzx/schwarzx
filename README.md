@@ -30,6 +30,7 @@
   <br />
   <br />
   <a href="https://hits.seeyoufarm.com" target="_blank"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fschwarzx%2Fhit-counter&count_bg=%238711BD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
+  <br />
   
   ![Snake animation](https://github.com/schwarzx/schwarzx/blob/output/github-contribution-grid-snake.svg)
 </div>
